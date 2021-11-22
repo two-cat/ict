@@ -147,7 +147,7 @@ section div a{
     height: 60%;
     background-size: cover;
     background-position:center;
-    background-image: url("/images/0.PNG");
+    background-image: url("./0.PNG");
 }
 .mt{
     padding-top: 60px;
